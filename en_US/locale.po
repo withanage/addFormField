@@ -1,0 +1,13 @@
+
+msgid "plugins.generic.addFormField.displayName"
+msgstr "Add extra form fields"
+
+msgid "plugins.generic.addFormField.description"
+msgstr "This plugin demonstrates adding an extra field to author form"
+
+msgid "plugins.generic.addFormField.field1.title"
+msgstr "Field 1 Title"
+
+msgid "plugins.generic.addFormField.field1.option1"
+msgstr "Field 1 Option 1"
+
